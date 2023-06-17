@@ -11,6 +11,6 @@ This dataset contains records of popular video games in North America, Japan, Eu
 
 ### challenges :computer:
 
-1.Top 5 platform seals
-2.Create a plot visualizing the average sales for games in the most popular three genres. Differentiate between NA, EU, and global sales.
+1.Top 5 platform seals <br/>
+2.Create a plot visualizing the average sales for games in the most popular three genres. Differentiate between NA, EU, and global sales.<br/>
 3.sales over the yeras
