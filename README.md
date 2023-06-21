@@ -1,5 +1,5 @@
 # Project Data Analysis
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/seifeddineba/data_analysis/main)
 ## DATASET :file_folder:
 
 ### Video Games Sales Data :video_game:
